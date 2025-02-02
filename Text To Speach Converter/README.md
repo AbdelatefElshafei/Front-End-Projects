@@ -1,4 +1,5 @@
 # Text to Speech Converter
+![image](https://github.com/user-attachments/assets/604aad5d-2867-4c40-95cd-174578f18d88)
 
 ## Description
 The **Text to Speech Converter** is a simple web application that allows users to input text and convert it into speech using the Web Speech API. Users can choose from different available voices and listen to the text being read aloud.
